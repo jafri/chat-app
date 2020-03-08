@@ -1,4 +1,4 @@
-# hello-world
+# Chat App
 
 ## Project setup
 ```
